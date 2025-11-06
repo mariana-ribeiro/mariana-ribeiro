@@ -2,7 +2,7 @@
 
 ---
 
-## 🇵🇹 Sobre mim
+## <img src="https://flagcdn.com/w20/pt.png" width="20"/> Sobre mim  
 
 Sou licenciada em Engenharia Informática e mestre em Engenharia de Inteligência Artificial.
 Gosto de transformar ideias em soluções práticas, desenvolvendo sistemas que combinam software e hardware para resolver desafios do mundo real.  
@@ -12,7 +12,8 @@ Sou uma pessoa curiosa, determinada e com grande vontade de aprender continuamen
 
 ---
 
-## 🇬🇧 About Me
+## <img src="https://flagcdn.com/w20/gb.png" width="20"/> About Me
+
 
 I have a degree in Computer Engineering and a master's degree in Artificial Intelligence Engineering. 
 I enjoy turning ideas into practical solutions, developing systems that combine software and hardware to solve real-world challenges.  
