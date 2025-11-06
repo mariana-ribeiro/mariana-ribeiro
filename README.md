@@ -12,7 +12,7 @@ Sou uma pessoa curiosa, determinada e com grande vontade de aprender continuamen
 
 ---
 
-## 🇬🇧 About Me
+## EN About Me
 
 I have a degree in Computer Engineering and a master's degree in Artificial Intelligence Engineering. 
 I enjoy turning ideas into practical solutions, developing systems that combine software and hardware to solve real-world challenges.  
@@ -52,9 +52,9 @@ Curiosity drives me, and I’m always eager to explore new technologies and chal
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<TEU_UTILIZADOR>&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<TEU_UTILIZADOR>&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=<TEU_UTILIZADOR>&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariana-ribeiro&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariana-ribeiro&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=mariana-ribeiro&theme=radical)
 
 </div>
 
