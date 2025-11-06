@@ -12,7 +12,7 @@ Sou uma pessoa curiosa, determinada e com grande vontade de aprender continuamen
 
 ---
 
-## EN About Me
+## 🇬🇧 About Me
 
 I have a degree in Computer Engineering and a master's degree in Artificial Intelligence Engineering. 
 I enjoy turning ideas into practical solutions, developing systems that combine software and hardware to solve real-world challenges.  
@@ -46,7 +46,7 @@ Curiosity drives me, and I’m always eager to explore new technologies and chal
 - 🩺 [**Intelligent Surgical Instrument Recognition**](<LINK_DO_PROJETO>) — YOLOv11-based model for medical instrument detection and counting.  
 - 📷 [**Camera Calibration & 3D Mapping**](<LINK_DO_PROJETO>) — Python pipeline for calibration and 2D→3D coordinate transformation.
 
---- -->
+--- 
 
 ## 📊 GitHub Stats
 
@@ -58,7 +58,7 @@ Curiosity drives me, and I’m always eager to explore new technologies and chal
 
 </div>
 
----
+--- -->
 
 ## ✉️ Contact
 
