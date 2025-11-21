@@ -48,7 +48,7 @@ Curiosity drives me, and I’m always eager to explore new technologies and chal
 - 🩺 [**Intelligent Surgical Instrument Recognition**](<LINK_DO_PROJETO>) — YOLOv11-based model for medical instrument detection and counting.  
 - 📷 [**Camera Calibration & 3D Mapping**](<LINK_DO_PROJETO>) — Python pipeline for calibration and 2D→3D coordinate transformation.
 
---- 
+--- -->
 
 ## 📊 GitHub Stats
 
@@ -60,7 +60,7 @@ Curiosity drives me, and I’m always eager to explore new technologies and chal
 
 </div>
 
---- -->
+
 
 ## ✉️ Contact
 
